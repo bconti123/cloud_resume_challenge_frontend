@@ -2,16 +2,14 @@ name: Upload Website
 
 on:
   push:
-    branches:
-    - master
-
+    branches: [ main ]
 jobs:
   deploy:
     runs-on: ubuntu-latest
     steps:
       run: |
         ls
-        cd Frontend
+        cd Frontend/
     - uses: actions/checkout@master
     - uses: jakejarvis/s3-sync-action@master
       with:
