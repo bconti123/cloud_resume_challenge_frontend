@@ -28,3 +28,5 @@ jobs:
             dist-id: ${{ secrets.CLOUDFRONT_DISTRIBUTION_ID }}
             invalidation: /
             delete-removed: true
+            no-cache: true
+            private: false
