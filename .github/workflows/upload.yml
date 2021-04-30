@@ -19,6 +19,4 @@ jobs:
         AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
         AWS_S3_BUCKET: ${{ secrets.AWS_S3_BUCKET }}
         DISTRIBUTION_ID: 'EQDXXXXO18XXX'
-        AWS_REGION: 'eu-west-1'   # optional: defaults to us-east-1
-        SOURCE_DIR: 'public'      # optional: defaults to entire repository
-        DEST_DIR: 'subdirectory'      # optional: defaults to the root of the bucket
+        AWS_REGION: 'us-west-1'   # optional: defaults to us-east-1
