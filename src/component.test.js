@@ -1,6 +1,6 @@
 import { render, screen } from '@testing-library/react';
-import App from './App';
 import Aboutme from "./components/Aboutme.component";
+
 
 test('Bryant Conti Cloud Computing Enthusiast', () => {
     render(<Aboutme />);
