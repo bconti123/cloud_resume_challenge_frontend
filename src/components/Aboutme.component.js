@@ -4,14 +4,14 @@ export default class Aboutme extends Component {
              render() {
         return (
           < section id = "aboutUs" >
-            <div class="inner_wrapper about-us aboutUs-container fadeInLeft animated wow">
-              <div class="container">
+            <div className="inner_wrapper about-us aboutUs-container fadeInLeft animated wow">
+              <div className="container">
                 <h2>About Me</h2>
                 <p>My name is Bryant Conti. I became deaf since born in San Franciso, Calfironia. I grew up Bay Area, California.</p>
 
-                <div class="inner_section">
-                  <div class="row">
-                    <div class="col-md-6">
+                <div className="inner_section">
+                  <div className="row">
+                    <div className="col-md-6">
                       <h3>Passionate</h3>
                       <p>I always learn many things about technology by researching and
                       discovering software, hardware, and programming langauge. Normally,

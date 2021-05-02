@@ -6,21 +6,21 @@ export default class Exp extends Component {
             <section id="experience">
                 <h1 style={{ textAlign: 'center' }}><br />Work Experience Timeline</h1>
                 
-                <div class="container">
-                    <section id="news" class="white-bg padding-top-bottom">
-                        <div class="container">
-                            <div class="timeline">
-                                <div class="date-title">
+                <div className="container">
+                    <section id="news" className="white-bg padding-top-bottom">
+                        <div className="container">
+                            <div className="timeline">
+                                <div className="date-title">
                                     <span>2020</span>
                                 </div>
 
-                                <div class="row">
-                                    <div class="col-sm-6 news-item">
-                                        <div class="news-content">
-                                            <div class="date">
+                                <div className="row">
+                                    <div className="col-sm-6 news-item">
+                                        <div className="news-content">
+                                            <div className="date">
                                                 <p></p>
                                             </div>
-                                            <h2 class="news-title">Bay Area Asian Deaf Association</h2>
+                                            <h2 className="news-title">Bay Area Asian Deaf Association</h2>
                                             <span>Web Coordinator (Volunteer work)</span>
                                             <p>August 2020 – Present <br />Bay Area, CA </p>
                                             <p>Utilize software: Wix</p>
@@ -28,16 +28,16 @@ export default class Exp extends Component {
                                             <p>Publish content, maintain continuity of themes, design layout, streamline navigation, and increase online pressure to potential members.</p>
                                             <p>Manage and organize the database by developing and classifying categories for archives and posts.</p>
                                             <p>Research various technologies and read the Help Center to learn and practice Wix to update the website for the organization.</p>
-                                            <a class="read-more" href="https://www.baadaca.com/" target="_">BAADA website</a>
+                                            <a className="read-more" href="https://www.baadaca.com/" target="_">BAADA website</a>
                                         </div>
                                     </div>
 
-                                    <div class="col-sm-6 news-item right">
-                                        <div class="news-content">
-                                            <div class="date">
+                                    <div className="col-sm-6 news-item right">
+                                        <div className="news-content">
+                                            <div className="date">
                                                 <p>Nov</p>
                                             </div>
-                                            <h2 class="news-title">National Center on Deafness, California State University, Northridge (CSUN)</h2>
+                                            <h2 className="news-title">National Center on Deafness, California State University, Northridge (CSUN)</h2>
                                             <span>Student Assistant (Technology Support)</span>
                                             <p>April 2017 – November 2019 (2 years 10 months) <br /> Northridge, CA.</p>
 

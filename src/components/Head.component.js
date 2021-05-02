@@ -26,10 +26,10 @@ export default class Head extends Component {
     render() {
         return (
             <header id="header">
-                <div id="head" class="parallax" parallax-speed="2" style={{ backgroundPosition: '50% 0px' }}>
-                    <div class="top_left_cont zoomIn wow animated" id="logo">
+                <div id="head" className="parallax" parallax-speed="2" style={{ backgroundPosition: '50% 0px' }}>
+                    <div className="top_left_cont zoomIn wow animated" id="logo">
                         <p>views: {this.state.item}</p>
-                        <img class="img-circle" src="img/head-2.jpg" alt="" />
+                        <img className="img-circle" src="img/head-2.jpg" alt="" />
                         <h2>Bryant Conti <br /><strong>Cloud Computing Enthusiast</strong></h2>
                         {/* <a href="/assets/Bryant-Conti-Resume.pdf" class="read_more2" download>Download resume</a> */}     
                     </div>

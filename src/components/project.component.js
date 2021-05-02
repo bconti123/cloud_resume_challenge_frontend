@@ -11,7 +11,7 @@ export default class Project extends Component {
                         <h2>Projects</h2>
                         <div class="col-sm-6 col-md-6">
                             <h3>Cloud Resume Challenge</h3>
-                            <span>April 5, 2019 - May 5, 2020</span>
+                            <span>April 5, 2021 - May 5, 2021</span>
                             <br />
                             <p>Deployed a react app on resume website as AWS S3 static website, 
                                 configure AWS CloudFront and origin access identity 
@@ -30,11 +30,13 @@ export default class Project extends Component {
                             <p>Developed a Python code to call API Gateway with 
                                 AWS Lambda as the backend which is to retrieve and 
                                 update the view count in the DynamoDB, a NoSQL Database, to count
-                                how many users access the website.</p>
+                                how many users access the website.
+                            </p>
                             <br />
                             <p>Set up CI/CD utilizing GitHub actions for backend and frontend, 
                                 to automating the tasks of applying AWS resources, Python testing, 
-                                YAML scripting, and updating website if any configuration change is necessary.</p>
+                                YAML scripting, and updating website if any configuration change is necessary.
+                            </p>
                         </div>
                         <div class="col-sm-6 col-md-6">
                             <h3>CalStatePays</h3>
