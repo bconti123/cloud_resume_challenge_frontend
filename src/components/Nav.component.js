@@ -17,6 +17,7 @@ export default class Nav extends Component {
                                     <li class="active"><a href="#header" class="scroll-link">Home</a></li>
                                     <li><a href="#aboutUs" class="scroll-link">About Me</a></li>
                                     <li><a href="#techSkills" class="scroll-link">Tecnnical Skills</a></li> 
+                                    <li><a href="#Projects" class="scroll-link">Projects</a></li>
                                     {/* <li><a href="#Portfolio" class="scroll-link">Portfolio</a></li> */}
                                     <li><a href="#experience" class="scroll-link">Experience</a></li>
                                     <li><a href="#contact" class="scroll-link">Contact</a></li>

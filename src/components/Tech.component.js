@@ -12,12 +12,14 @@ export default class Tech extends Component {
                             <p>
                                 <b>Operating Systems:</b> Windows 10, Mac OS, Linux (Ubuntu, Febora, Red Hat, Kali), Windows Server 2012/2016/2019 <br />
                                 <b>Frontend Frameworks:</b> React, Vue, Angular (Familiar) <br />
-                                <b>DevOps Tools:</b> Slack, Trello, Git, Jira, Ansible <br />
-                                <b>CI/CD Tools (Familiar) :</b> GitHub, CodeCommit, CodeBuild, CodeDeploy, and CodePineline <br />
-                                <b>Applications:</b> Microsoft Office, G Studio, Zoom, Oracle VM Virtualbox, Adobe Creative Stuite, Docker, Github <br />
+                                <b>Versioning Tools:</b>Git and AWS CodeCommit<br />
+                                <b>CI/CD Tools:</b> GitHub Action, AWS CodeBuild, AWS CodeDeploy, and AWS CodePineline <br />
+                                <b>Containerization Tool:</b> Docker <br />
+                                <b>Applications:</b> Microsoft Office, G Studio, Zoom, Oracle VM Virtualbox, Adobe Creative Studio <br />
                                 <b>Networking:</b> Hubs, Switches, Routers, Ethernet cable, SSH, FTP, TCP/IP, DNS, DHCP, Active Directory <br />
                                 <b>Security:</b> Firewall, Anti-virus softwares, Anti-spyware softwares <br />
-                                <b>Databases:</b> MySQL <br />
+                                <b>Databases:</b> SQL, NoSQL <br />
+                                <b>AWS services:</b> Amazon EC2, S3, RDS, EBS, Auto Scaling, CloudFront, Route 53, DynamoDB, Lambda
                             </p>
                            
 
@@ -26,7 +28,7 @@ export default class Tech extends Component {
                         </div>
 
                         <div class="col-sm-6 col-md-6">
-
+                            <h2>Programming Langauges</h2>
                             <div class="progress">
                                 <div class="progress-bar progress-bar-success" role="progressbar" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100" style={{ width: '100%' }}>
                                     <span class="sr-only">100%</span>

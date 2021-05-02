@@ -7,6 +7,7 @@ import Head from "./components/Head.component";
 import Tech from "./components/Tech.component";
 import Exp from "./components/exp.component";
 import Contact from "./components/contact.component";
+import Project from "./components/project.component";
 
 
 
@@ -28,8 +29,10 @@ class App extends React.Component {
           <Tech />
         {/* Portfolio 
           <Portfolio /> */}
+          <Project />
         {/* EXPERIENCE */}    
           <Exp /> 
+        
         {/* CONTACT */}
           <Contact />
         

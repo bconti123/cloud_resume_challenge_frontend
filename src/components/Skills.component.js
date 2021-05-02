@@ -33,7 +33,7 @@ export default class Skills extends Component {
                                 <div class="service_block">
 
                                     <h3 class="animated fadeInUp wow">Cloud Infrastructure</h3>
-                                    <p class="animated fadeInDown wow">Working on infrastructure with Terraform 
+                                    <p class="animated fadeInDown wow">Working on infrastructure with Terraform, Serverless Application Model (SAM), and CloudFormation
                                     as system design to setting up cloud infrastructure leading to make flexiable system well.  </p>
                                 </div>
                             </div>

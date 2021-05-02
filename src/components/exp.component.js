@@ -5,6 +5,7 @@ export default class Exp extends Component {
         return (
             <section id="experience">
                 <h1 style={{ textAlign: 'center' }}><br />Work Experience Timeline</h1>
+                
                 <div class="container">
                     <section id="news" class="white-bg padding-top-bottom">
                         <div class="container">
@@ -22,11 +23,11 @@ export default class Exp extends Component {
                                             <h2 class="news-title">Bay Area Asian Deaf Association</h2>
                                             <span>Web Coordinator (Volunteer work)</span>
                                             <p>August 2020 – Present <br />Bay Area, CA </p>
-
+                                            <p>Utilize software: Wix</p>
                                             <p>Revamp and improve BAADA’s website by implementing API for adding Facebook and Instagram newsfeed daily to help members keep up to date with current events.</p>
+                                            <p>Publish content, maintain continuity of themes, design layout, streamline navigation, and increase online pressure to potential members.</p>
                                             <p>Manage and organize the database by developing and classifying categories for archives and posts.</p>
                                             <p>Research various technologies and read the Help Center to learn and practice Wix to update the website for the organization.</p>
-
                                             <a class="read-more" href="https://www.baadaca.com/" target="_">BAADA website</a>
                                         </div>
                                     </div>
