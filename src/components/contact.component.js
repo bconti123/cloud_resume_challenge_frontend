@@ -7,7 +7,7 @@ export default class Contact extends Component {
                 <div className="container">
                     <section className="page_section contact" id="contact">
                         <div className="contact_section">
-                            <h2>Contact Us</h2>
+                            <h2>Contact Me</h2>
                             <h6>Free feel to ask me.</h6>
                                 <div className="contact_info">
 

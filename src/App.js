@@ -8,6 +8,7 @@ import Tech from "./components/Tech.component";
 import Exp from "./components/exp.component";
 import Contact from "./components/contact.component";
 import Project from "./components/project.component";
+import Certs from "./components/cert.component";
 
 
 
@@ -27,6 +28,7 @@ class App extends React.Component {
           <Skills /> */ }
         {/* Technical Skills */}
           <Tech />
+          <Certs />
         {/* Portfolio 
           <Portfolio /> */}
           <Project />
