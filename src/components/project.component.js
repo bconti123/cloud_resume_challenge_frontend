@@ -22,20 +22,13 @@ export default class Project extends Component {
                                 for adding CNAME record in pointing to CloudFront Distribution.
                             </p>
                             <br />
-                            <p>Researched how to writing infrastructure as code to find better scripts
-                            for automatic upload AWS resources: DynamoDB, Lambda, and API Gateway, to find testing scripts for
-                            making sure the unit testing is done in the development to verify codes that pass or fail.
+                            <p>Researched how to writing infrastructure as code to find better scripts for automatic upload AWS resources: DynamoDB, Lambda, and API Gateway, to find testing scripts for making sure the unit testing is done in the development to verify codes that pass or fail.
                             </p>
                             <br />
-                            <p>Developed a Python code to call API Gateway with 
-                                AWS Lambda as the backend which is to retrieve and 
-                                update the view count in the DynamoDB, a NoSQL Database, to count
-                                how many users access the website.
+                            <p>Developed a Python code to call API Gateway with AWS Lambda as the backend, which is to retrieve and update the view count in the DynamoDB, a NoSQL Database, to count how many users access the website.
                             </p>
                             <br />
-                            <p>Set up CI/CD utilizing GitHub actions for backend and frontend, 
-                                to automating the tasks of applying AWS resources, Python testing, 
-                                YAML scripting, and updating website if any configuration change is necessary.
+                            <p>Set up CI/CD utilizing GitHub actions for backend and frontend to automate applying AWS resources, Python testing, YAML scripting, and updating website if any configuration change is necessary.
                             </p>
                         </div>
                         <div class="col-sm-6 col-md-6">
@@ -55,11 +48,11 @@ export default class Project extends Component {
                         <h3>CEPH</h3>
                         <span>January 2020 - May 2020</span>
                         <br />
-                        <p>Resolved TCP/IP network access problems on 10+ HP servers utilized Putty and HP iLO remote console to correct IP address and hostname by editing etc/hosts in the command line made SSH successfully.</p>
+                            <p>Resolved TCP/IP network access problems on 10+ HP servers utilized Putty and HP iLO remote console to correct IP address and hostname by editing etc/hosts in the command line made SSH successfully.</p>
                         <br />
-                        <p>Analyzed, documented, and provided recommendations for the servers with Ubuntu 20.04 LTS by following instructions on command line and CEPH command from online resources for how to set up 2+ object storage daemon and 2+ monitor daemon then help mitigate future issues to make successful result. </p>
+                            <p>Analyzed, documented, and provided recommendations for the servers with Ubuntu 20.04 LTS by following instructions on the command line and CEPH command from online resources to set up 2+ object storage daemon 2+ monitor daemon then help mitigate future issues to make successful result. </p>
                         <br />
-                        <p>Presented the technical project and suggested “Cephadm” command that is best easy-to-use for deploying and managing a CEPH cluster and explain how to add, remove, or update CEPH daemon containers.</p>
+                            <p>Presented the technical project and suggested the “Cephadm” command that is best easy-to-use for deploying and managing a CEPH cluster and explain how to add, remove, or update CEPH daemon containers.</p>
                     </div>
                     </div>
                 </div>

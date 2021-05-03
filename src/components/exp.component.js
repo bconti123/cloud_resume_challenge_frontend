@@ -83,10 +83,10 @@ export default class Exp extends Component {
                                                 <span>Web Developer Internship</span>
                                                 <p>June 2013 – Aug 2013 (3 months) <br /> San Franciso, CA.</p>
 
-                                                <p>Uploaded various files such as webpage files through FileZilla/Cyberduck by accessing username and password to connect web server and deploying a website to keep it updated.</p>
-                                                <p>Developed and built a website with HTML, JavaScript, and CSS by researching technology, w3c school, and contact form with PHP to be self-taught to practice with my programming skills to keep testing out website and implementing errors to succeed.</p>
-                                                <p>Utilized agile methodology to consistently meet client deadlines by making a plan, testing a website, making decisions, and writing out tasks by pitching ideas and getting feedback to improve web development and be ensure it looks good.</p>
-                                                <p>Communicated with client through email to quickly resolve the client's needs by discussing website design to pick layout, color, and text size for making it looks good to meet the requirement and needs.</p>
+                                                <p>Deployed various files such as webpage files through FileZilla/Cyberduck by accessing username and password to connect web server and deploying a website to keep it updated.</p>
+                                                <p>Developed and built a website with HTML, JavaScript, and CSS by researching technology, w3c school, and contact form with PHP to be self-taught to practice with my programming skills to keep testing out the website and implementing errors to succeed.</p>
+                                                <p>Utilized agile methodology to consistently meet client deadlines by making a plan, testing a website, making decisions, and writing out tasks by pitching ideas and getting feedback to improve web development and be ensure it looks good..</p>
+                                                <p>Communicated with a client through email to quickly resolve the client's needs by discussing website design to pick a layout, color, and text size for making it looks good to meet the requirement and conditions.</p>
 
                                             </div>
                                         </div>
