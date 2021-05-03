@@ -7,7 +7,7 @@ export default class Aboutme extends Component {
             <div className="inner_wrapper about-us aboutUs-container fadeInLeft animated wow">
               <div className="container">
                 <h2>About Me</h2>
-                <p>My name is Bryant Conti. I became deaf since born in San Franciso, Calfironia. I grew up Bay Area, California.</p>
+                <p>My name is Bryant Conti. I became deaf since born in San Franciso, California. I grew up in Bay Area, California.</p>
 
                 <div className="inner_section">
                   <div className="row">
