@@ -11,7 +11,7 @@ export default class Project extends Component {
                         <h2>Projects</h2>
                         <div class="col-sm-6 col-md-6">
                             <h3>Cloud Resume Challenge</h3>
-                            <span>April 5, 2021 - May 5, 2021 | <a href="https://blog.bryantconti.com/Cloud-Resume-Challenge/" target="_blank">blog post link</a></span>
+                            <span>April 5, 2021 - May 5, 2021 | <a href="https://blog.bryantconti.com/Cloud-Resume-Challenge/" target="_blank" rel="noreferrer">blog post link</a></span>
                             <br />
                             <p>Deployed a react app on resume website as AWS S3 static website, 
                                 configure AWS CloudFront and origin access identity 
