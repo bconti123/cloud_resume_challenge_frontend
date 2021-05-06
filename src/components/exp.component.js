@@ -49,8 +49,6 @@ export default class Exp extends Component {
                                         </div>
                                     </div>
 
-
-
                                     <div class="row">
                                         <div class="col-sm-6 news-item">
                                             <div class="news-content">

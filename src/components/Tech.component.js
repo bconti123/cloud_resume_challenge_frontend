@@ -11,20 +11,17 @@ export default class Tech extends Component {
                             <h2>Technical Skills</h2>
                             <p>
                                 <b>Operating Systems:</b> Windows 10, Mac OS, Linux (Ubuntu, Febora, Red Hat, Kali), Windows Server 2012/2016/2019 <br />
-                                <b>Frontend Frameworks:</b> React, Vue, Angular (Familiar) <br />
-                                <b>Versioning Tools:</b>Git and AWS CodeCommit<br />
-                                <b>CI/CD Tools:</b> GitHub Action, AWS CodeBuild, AWS CodeDeploy, and AWS CodePineline <br />
-                                <b>Containerization Tool:</b> Docker <br />
+                                <b>Frontend Frameworks:</b> React, Vue, Angular (familiar) <br />
+                                <b>Versioning Tools:</b>Git, AWS CodeCommit<br />
+                                <b>CI/CD Tools:</b> GitHub Action, AWS CodeBuild, AWS CodeDeploy, AWS CodePineline <br />
+                                <b>Containerization Tool:</b> Docker and Kubernetes (familiar)<br />
                                 <b>Applications:</b> Microsoft Office, G Studio, Zoom, Oracle VM Virtualbox, Adobe Creative Studio <br />
                                 <b>Networking:</b> Hubs, Switches, Routers, Ethernet cable, SSH, FTP, TCP/IP, DNS, DHCP, Active Directory <br />
                                 <b>Security:</b> Firewall, Anti-virus softwares, Anti-spyware softwares <br />
                                 <b>Databases:</b> SQL, NoSQL <br />
+                                <b>Infrastructure as Code:</b> AWS SAM, Terraform, Anisble (familiar), CloudFormation
                                 <b>AWS services:</b> Amazon EC2, S3, RDS, EBS, Auto Scaling, CloudFront, Route 53, DynamoDB, Lambda
                             </p>
-                           
-
-
-
                         </div>
 
                         <div class="col-sm-6 col-md-6">
