@@ -15,14 +15,20 @@ export default class Contact extends Component {
                                         <h4>Email Me</h4>
                                         <p>bconti00@gmail.com</p>
                                     </div>
+                                    <center>
+                                        <ul className="social_links">
+                                            <li className="linkedin animated bounceIn wow delay-02s"><a href="https://www.linkedin.com/in/bryant-conti/" target="_blank" rel="noopener noreferrer" ><i class="fa fa-linkedin"></i></a></li>
+                                            <li className="github animated bounceIn wow delay-03s"><a href="https://github.com/bconti123" target="_blank" rel="noopener noreferrer" ><i class="fa fa-github"></i></a></li>
+                                        </ul>
+                                    </center>
+
                                 </div>
-                                
-                                <ul className="social_links">
-                                    <li className="linkedin animated bounceIn wow delay-02s"><a href="https://www.linkedin.com/in/bryant-conti/" target="_blank" rel="noopener noreferrer" ><i class="fa fa-linkedin"></i></a></li>
-                                    <li className="github animated bounceIn wow delay-03s"><a href="https://github.com/bconti123" target="_blank" rel="noopener noreferrer" ><i class="fa fa-github"></i></a></li>
-                                </ul>
+                               
+
+                               
                             
                         </div>
+
                         {/*
                         <div class="row">
                             <div class="col-lg-4 wow fadeInLeft">

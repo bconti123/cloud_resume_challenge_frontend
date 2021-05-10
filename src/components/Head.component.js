@@ -15,7 +15,7 @@ export default class Head extends Component {
         axios({
             method: 'get',
             mode: 'no-cors',
-            url: 'https://z9usi25dba.execute-api.us-west-1.amazonaws.com/PROD/count'
+            //url: 'https://z9usi25dba.execute-api.us-west-1.amazonaws.com/PROD/count'
             })
             .then(response => {
                 this.setState({ item: response.data })
@@ -31,7 +31,13 @@ export default class Head extends Component {
                         <p>views: {this.state.item}</p>
                         <img className="img-circle" src="img/head-2.jpg" alt="" />
                         <h2>Bryant Conti <br /><strong>Cloud Computing Enthusiast</strong></h2>
-                        {/* <a href="/assets/Bryant-Conti-Resume.pdf" class="read_more2" download>Download resume</a> */}     
+                        {/* <a href="/assets/Bryant-Conti-Resume.pdf" class="read_more2" download>Download resume</a> */}
+                        <center>
+                            <ul className="social_links">
+                                <li className="linkedin animated bounceIn wow delay-02s"><a href="https://www.linkedin.com/in/bryant-conti/" target="_blank" rel="noopener noreferrer" ><i class="fa fa-linkedin"></i></a></li>
+                                <li className="github animated bounceIn wow delay-03s"><a href="https://github.com/bconti123" target="_blank" rel="noopener noreferrer" ><i class="fa fa-github"></i></a></li>
+                            </ul>
+                        </center>
                     </div>
                 </div>
             </header>

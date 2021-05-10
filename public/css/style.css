@@ -1160,6 +1160,7 @@ transition: all .3s;
     display: block;
     height: 100%;
     width: 100%;
+    
 }
 
 .contact_block_icon.icon2 {
@@ -1195,7 +1196,7 @@ transition: all .3s;
 
 .contact_info {
     font-size: 15px;
-    margin: 0 0 0 20px;
+    /* margin: 0 0 0 20px; */
     /* padding-left: 0; */
     text-align: center;
 }
@@ -1216,23 +1217,13 @@ transition: all .3s;
 }
 
 .social_links {
-
-    
-   
-    display:block;
-    
-    margin-left: 43%;
-  
-    background-color: orange;
-    text-align: center;
-    width: 100%;
-    
-   
+    padding: 0;
+    margin: 0;
+    display: inline-block;
+    list-style: none;
+    overflow: hidden; 
 }
 
-.social_center {
-
-}
 
 .social_links li {
     float: left;
@@ -1244,17 +1235,12 @@ transition: all .3s;
     display: block;
     width: 50px;
     height: 50px;
-    text-align: center;
     line-height: 50px;
     font-size: 25px;
     color: #fff;
-    
 }
 
-.social_links li a:hover, .social_links li a:focus {
-    text-decoration: none;
-    border-radius: 80px;
-}
+
 
 .twitter a:hover {
     color: #55acee;
