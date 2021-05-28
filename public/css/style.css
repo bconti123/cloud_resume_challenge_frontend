@@ -308,9 +308,9 @@ p {
 
 .navStyle ul li a {
     display: block;
-    font-size: 15px;
+    font-size: 16px;
     color: #222222;
-    font-family: 'Raleway', sans-serif;
+    font-family: 'Lato', sans-serif;
     text-decoration: none;
     text-transform: uppercase;
     font-weight: 400;

@@ -13,7 +13,7 @@ export default class Project extends Component {
                             <h3>Cloud Resume Challenge</h3>
                             <span>April 5, 2021 - May 5, 2021 | <a href="https://blog.bryantconti.com/Cloud-Resume-Challenge/" target="_blank" rel="noreferrer" nofollow>blog post link</a></span>
                             <br />
-                            <p>Deployed a react app on resume website as AWS S3 static website, 
+                            <p>Deployed a React app on resume website as AWS S3 static website, 
                                 configure AWS CloudFront and origin access identity 
                                 (OAI) to redirect website from HTTP to HTTPS.
                             </p>
