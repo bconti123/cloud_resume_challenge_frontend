@@ -30,7 +30,7 @@ export default class Head extends Component {
                     <div className="top_left_cont zoomIn wow animated" id="logo">
                         <p>views: {this.state.item}</p>
                         <img className="img-circle" src="img/head-2.jpg" alt="" />
-                        <h2>Bryant Conti <br /><strong>Cloud Computing Enthusiast</strong></h2>
+                        <h2>Bryant Conti <br /><strong>Web Developer/Web Coordinator</strong></h2>
                         {/* <a href="/assets/Bryant-Conti-Resume.pdf" class="read_more2" download>Download resume</a> */}
                         <center>
                             <ul className="social_links">
