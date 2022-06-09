@@ -13,7 +13,7 @@ export default class Contact extends Component {
 
                                     <div className="detail">
                                         <h4>Email Me</h4>
-                                        <p>bconti00@gmail.com</p>
+                                        <p>bryantcconti@gmail.com</p>
                                     </div>
                                     <center>
                                         <ul className="social_links">

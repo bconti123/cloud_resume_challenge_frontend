@@ -19,7 +19,7 @@ export default class Tech extends Component {
                                 <b>Networking:</b> Hubs, Switches, Routers, Ethernet cable, SSH, FTP, TCP/IP, DNS, DHCP, Active Directory <br />
                                 <b>Security:</b> Firewall, Anti-virus softwares, Anti-spyware softwares <br />
                                 <b>Databases:</b> SQL, NoSQL <br />
-                                <b>Infrastructure as Code:</b> AWS SAM, Terraform, Anisble (familiar), CloudFormation <br />
+                                <b>Infrastructure as Code:</b> AWS SAM, Terraform, Anisble, CloudFormation <br />
                                 <b>AWS services:</b> Amazon EC2, VPC, ALB, S3, RDS, EBS, Auto Scaling, CloudFront, Route 53, DynamoDB, Lambda, API Gateway
                             </p>
                         </div>
